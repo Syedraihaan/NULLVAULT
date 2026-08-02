@@ -1,0 +1,30 @@
+{"ts": "2026-04-21T05:17:38.306459+00:00", "level": "INFO", "event": "user_registered", "username": "null"}
+{"ts": "2026-04-21T05:17:56.062550+00:00", "level": "INFO", "event": "login_success", "username": "null"}
+{"ts": "2026-04-21T05:21:36.368825+00:00", "level": "INFO", "event": "user_registered", "username": "carol"}
+{"ts": "2026-04-21T05:22:10.558496+00:00", "level": "INFO", "event": "user_registered", "username": "testuser1"}
+{"ts": "2026-04-21T05:22:16.119745+00:00", "level": "INFO", "event": "login_success", "username": "testuser1"}
+{"ts": "2026-04-21T05:33:55.719753+00:00", "level": "INFO", "event": "login_success", "username": "null"}
+{"ts": "2026-04-21T05:41:18.963098+00:00", "level": "INFO", "event": "user_registered", "username": "vaulttest"}
+{"ts": "2026-04-21T05:41:19.565459+00:00", "level": "INFO", "event": "login_success", "username": "vaulttest"}
+{"ts": "2026-04-21T05:41:19.610068+00:00", "level": "INFO", "event": "file_stored", "user_id": 7, "hash_id": "5656d3fd21bfb1a961ef3c3e9941be43", "orig_name": "OfferLetter_Sheik_Nifla_NULLGRIDSLabs.docx"}
+{"ts": "2026-04-21T05:41:19.639307+00:00", "level": "INFO", "event": "file_retrieved", "user_id": 7, "hash_id": "5656d3fd21bfb1a961ef3c3e9941be43", "dest": "C:\\Users\\syedh\\OneDrive\\Desktop\\OfferLetter_Sheik_Nifla_NULLGRIDSLabs.docx"}
+{"ts": "2026-04-21T05:41:19.647308+00:00", "level": "INFO", "event": "file_deleted", "user_id": 7, "hash_id": "5656d3fd21bfb1a961ef3c3e9941be43"}
+{"ts": "2026-04-21T05:44:28.931241+00:00", "level": "INFO", "event": "user_registered", "username": "vaulttest"}
+{"ts": "2026-04-21T05:44:29.515743+00:00", "level": "INFO", "event": "login_success", "username": "vaulttest"}
+{"ts": "2026-04-21T05:44:29.545915+00:00", "level": "INFO", "event": "stored", "user_id": 1, "hash_id": "55c6bac74e46a2cb49570904b808b530", "name": "OfferLetter_Sheik_Nifla_NULLGRIDSLabs.docx", "type": "file"}
+{"ts": "2026-04-21T05:44:29.635358+00:00", "level": "INFO", "event": "stored", "user_id": 1, "hash_id": "e9374a1e7a749c9229cb79983ce95577", "name": "offer letter", "type": "dir"}
+{"ts": "2026-04-21T05:44:29.655363+00:00", "level": "INFO", "event": "retrieved", "user_id": 1, "hash_id": "55c6bac74e46a2cb49570904b808b530", "dest": "C:\\Users\\syedh\\OneDrive\\Desktop\\nullvault_test_out\\OfferLetter_Sheik_Nifla_NULLGRIDSLabs.docx"}
+{"ts": "2026-04-21T05:44:29.695615+00:00", "level": "INFO", "event": "retrieved", "user_id": 1, "hash_id": "e9374a1e7a749c9229cb79983ce95577", "dest": "C:\\Users\\syedh\\OneDrive\\Desktop\\nullvault_test_out\\offer letter"}
+{"ts": "2026-04-21T05:44:29.703614+00:00", "level": "INFO", "event": "deleted", "user_id": 1, "hash_id": "55c6bac74e46a2cb49570904b808b530"}
+{"ts": "2026-04-21T05:44:29.714627+00:00", "level": "INFO", "event": "deleted", "user_id": 1, "hash_id": "e9374a1e7a749c9229cb79983ce95577"}
+{"ts": "2026-04-21T05:46:47.580654+00:00", "level": "INFO", "event": "user_registered", "username": "null"}
+{"ts": "2026-04-21T05:46:57.656610+00:00", "level": "INFO", "event": "login_success", "username": "null"}
+{"ts": "2026-04-21T05:47:19.107059+00:00", "level": "INFO", "event": "stored", "user_id": 1, "hash_id": "f9c80fbd5511029f8b680f9c25600686", "name": "offer letter", "type": "dir"}
+{"ts": "2026-04-21T05:48:02.013461+00:00", "level": "INFO", "event": "logout", "token": "ae1afbdd..."}
+{"ts": "2026-04-21T05:49:00.141831+00:00", "level": "INFO", "event": "login_success", "username": "null"}
+{"ts": "2026-04-21T05:49:48.651945+00:00", "level": "INFO", "event": "retrieved", "user_id": 1, "hash_id": "f9c80fbd5511029f8b680f9c25600686", "dest": "C:\\Users\\syedh\\OneDrive\\Desktop\\offer letter"}
+{"ts": "2026-04-21T05:52:21.675486+00:00", "level": "INFO", "event": "retrieved", "user_id": 1, "hash_id": "f9c80fbd5511029f8b680f9c25600686", "dest": "C:\\Users\\syedh\\OneDrive\\Desktop\\offer letter"}
+{"ts": "2026-04-21T08:59:45.070416+00:00", "level": "INFO", "event": "login_success", "username": "null"}
+{"ts": "2026-04-21T09:00:06.195288+00:00", "level": "INFO", "event": "stored", "user_id": 1, "hash_id": "5c6be3b2fc55e45429c8397c36fec22e", "name": "registry_and_file_analysis", "type": "dir"}
+{"ts": "2026-04-21T09:00:53.997969+00:00", "level": "INFO", "event": "retrieved", "user_id": 1, "hash_id": "5c6be3b2fc55e45429c8397c36fec22e", "dest": "C:\\Users\\syedh\\OneDrive\\Documents\\registry_and_file_analysis"}
+{"ts": "2026-04-21T09:01:52.876796+00:00", "level": "INFO", "event": "logout", "token": "cb3ae75e..."}
